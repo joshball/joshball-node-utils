@@ -2,7 +2,7 @@
 
 var cl = require('contralog')(module);
 cl.on();
-var Utils = require('../lib');
+var Utils = require('../../lib/index');
 
 var invalidParameters = function (some, params) {
     cl.trace('invalidParameters');
