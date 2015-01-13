@@ -1,0 +1,32 @@
+{
+  "name": "joshball-node-utils",
+  "version": "1.0.0",
+  "description": "Some utils I use in multiple projects",
+  "main": "lib/evr.js",
+  "scripts": {
+    "test": "node_modules/.bin/lab"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshball/joshball-node-utils"
+  },
+  "author": "Joshua Ball <joshua.g.s.ball@gmail.com> (https://github.com/joshball/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshball/joshball-node-utils/issues"
+  },
+  "homepage": "https://github.com/joshball/joshball-node-utils",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "lab": "^5.2.0",
+    "sinon": "^1.12.2",
+    "sinon-chai": "^2.6.0"
+  },
+  "dependencies": {
+    "contralog": "git+https://github.com/joshball/contralog.git",
+    "lodash": "^2.4.1"
+  }
+}
