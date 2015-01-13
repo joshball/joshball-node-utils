@@ -28,6 +28,7 @@
   "dependencies": {
     "bluebird": "^2.6.4",
     "contralog": "git+https://github.com/joshball/contralog.git",
+    "hoek": "^2.11.0",
     "lodash": "^2.4.1",
     "mongoose": "^3.8.21",
     "valid-url": "^1.0.9"
