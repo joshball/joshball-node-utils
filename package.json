@@ -2,7 +2,7 @@
   "name": "joshball-node-utils",
   "version": "1.0.0",
   "description": "Some utils I use in multiple projects",
-  "main": "lib/evr.js",
+  "main": "lib/index",
   "scripts": {
     "test": "node_modules/.bin/lab"
   },
