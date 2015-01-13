@@ -34,7 +34,7 @@ lab.experiment('joshball-node-utils', function () {
 
     lab.experiment('mongo', function () {
 
-        lab.experiment('MongoDbCred', function () {
+        lab.experiment('MongoMgr', function () {
 
             lab.experiment('construction', function () {
 
