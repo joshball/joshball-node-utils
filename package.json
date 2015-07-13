@@ -20,17 +20,17 @@
   },
   "homepage": "https://github.com/joshball/joshball-node-utils",
   "devDependencies": {
-    "chai": "^1.10.0",
-    "lab": "^5.2.0",
-    "sinon": "^1.12.2",
-    "sinon-chai": "^2.6.0"
+    "chai": "^3.0.0",
+    "lab": "^5.13.0",
+    "sinon": "^1.15.4",
+    "sinon-chai": "^2.8.0"
   },
   "dependencies": {
-    "bluebird": "^2.6.4",
+    "bluebird": "^2.9.33",
     "contralog": "git+https://github.com/joshball/contralog.git",
-    "hoek": "^2.11.0",
-    "lodash": "^2.4.1",
-    "mongoose": "^3.8.21",
+    "hoek": "^2.14.0",
+    "lodash": "^3.10.0",
+    "mongoose": "4.0.7",
     "valid-url": "^1.0.9"
   }
 }
